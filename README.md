@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shared Bill Splitter
 
 A full-stack web application for managing shared household expenses. Create homes, add members, split bills equally, record payments, and track outstanding balances.
@@ -170,3 +171,6 @@ The local test run completed with **24 passing tests across 3 test files**.
 GitHub: [Harshitha-rongali](https://github.com/Harshitha-rongali)
 
 Project Repository: [Shared Bill Splitter](https://github.com/Harshitha-rongali/shared-bill-splitter)
+=======
+# shared-bill-splitter
+>>>>>>> origin/main
